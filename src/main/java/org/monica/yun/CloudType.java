@@ -23,4 +23,5 @@ public enum CloudType {
 	public String toString() {
 		return this.type;
 	}
+	
 }
